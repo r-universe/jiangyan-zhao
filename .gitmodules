@@ -5,3 +5,6 @@
 [submodule "BKP"]
 	path = BKP
 	url = https://github.com/jiangyan-zhao/bkp
+[submodule "SKBD"]
+	path = SKBD
+	url = https://github.com/jiangyan-zhao/skbd
